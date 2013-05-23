@@ -20,17 +20,25 @@ input file:
 //dict
 
 hello 
+
 there
+
 yello
+
 thorns 
 
 //secret 
+
 12334 
+
 51272 
+
 12334 
+
 514678
 
 output:
+
 12334 51272 = hello there 
 
 12334 514678 = hello thorns
