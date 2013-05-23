@@ -18,10 +18,12 @@ Example:
 input file:
 
 //dict
+
 hello 
 there
 yello
 thorns 
+
 //secret 
 12334 
 51272 
